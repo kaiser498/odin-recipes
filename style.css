@@ -1,0 +1,37 @@
+h1 {
+  background-color: bisque;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 50px;
+  width: 80%;
+  margin: auto;
+}
+div {
+  width: 80%;
+  margin: auto;
+}
+li {
+  list-style: none;
+  font-size: x-large;
+  display: inline-block;
+  margin: 40px;
+  line-height: 22px;
+}
+img {
+  width: 400px;
+  height: auto;
+}
+li figcaption {
+  text-decoration: none;
+}
+a {
+  text-decoration: none;
+  color: brown;
+}
+a:hover {
+  text-decoration: underline;
+}
+img {
+    display: block;
+    margin: 0 auto;
+  }
