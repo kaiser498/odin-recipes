@@ -1,7 +1,9 @@
+body{
+  font-family: 'Courier New', Courier, monospace;
+}
 h1 {
   background-color: bisque;
   text-align: center;
-  font-family: "Courier New", Courier, monospace;
   font-size: 50px;
   width: 80%;
   margin: auto;
