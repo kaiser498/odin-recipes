@@ -1,32 +1,86 @@
-body {
-  width: 80%;
-  margin: auto;
+* {
   font-family: "Courier New", Courier, monospace;
-  line-height: 35px;
 }
-.home {
-  border: 3px solid black;
-  border-radius: 5px;
-  padding: 5px 10px 5px 10px;
+.topho,
+.hea1,
+.topimg,
+.descript,
+.first,
+footer {
+  background-color: #e5e7eb;
+  margin: 20px auto;
 }
-a {
+.toph,
+.hea2,
+.topi,
+.descrip,
+.firsts,
+.seconds,
+.thirds,
+.fourths,
+.fifths,
+.sixths,
+.sevenths,
+.footer,
+.tophi {
+  border: 1px solid #0f766e;
+  background-color: #f3f4f6;
+  border-radius: 10px;
+}
+.toph,
+.hea2,
+.topi,
+.tophi {
+  text-align: center;
+}
+
+.toph {
+  width: 4em;
+  margin: auto 80%;
+}
+.tophi {
+  width: 4em;
+  margin: auto 10%;
+}
+.toph a,
+.tophi a {
   text-decoration: none;
-  background-color: bisque;
+  color: black;
+  font-size: x-large;
 }
-h1 {
-    background-color: bisque;
-    text-align: center;
-    font-size: 50px;
-    width: 80%;
-    margin: auto;
-    line-height: normal;
-  }
-img {
-  display: block;
+.hea2 {
+  width: fit-content;
   margin: 0 auto;
 }
+.topi,
+.descrip,
+.firsts,
+.seconds,
+.thirds,
+.fourths,
+.fifths,
+.sixths,
+.sevenths,
+.footer {
+  width: 80%;
+  margin: 20px auto;
+}
+img {
+  object-fit: contain;
+  width: 100%;
+  height: 100%;
+}
+figcaption {
+  color: #0f766e;
+}
+figcaption,
 h2,
 h3,
 h4 {
+  text-decoration: underline;
+}
+a:hover{
+  background-color: #6b7280;
+  color: white;
   text-decoration: underline;
 }
