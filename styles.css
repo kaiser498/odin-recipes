@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     background-color: #EFF0DA;
+    font-family: Garamond, Georgia, 'Times New Roman', Times, serif;
 }
 
 .content {
@@ -52,7 +53,7 @@ h1 {
 }
 
 .contentBox {
-    padding: 16px 32px;
+    padding: 16px 50px;
     background-color: #F7F8ED;
     margin-bottom: 16px;
 }
@@ -65,4 +66,9 @@ h3 {
 
 .homeLink {
     text-align: center;
+}
+
+.contentBox p,
+.contentBox li {
+    font-family: 'Courier New', Courier, monospace;
 }
