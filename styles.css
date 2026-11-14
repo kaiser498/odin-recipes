@@ -24,17 +24,20 @@ h1 {
     text-align: center;
 }
 
-#recipesTitles li {
+#recipesTitles li,
+.homeLink a {
     display: inline-block;
     margin: 16px;
 }
 
-#recipesTitles li a {
+#recipesTitles li a,
+.homeLink a {
     color: #62748E;
     text-decoration: none;
 }
 
-#recipesTitles li a:hover {
+#recipesTitles li a:hover,
+.homeLink a:hover {
     color: #434F60;
     text-decoration: underline;
 }
