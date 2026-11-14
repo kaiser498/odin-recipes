@@ -20,3 +20,13 @@ li {
     display: inline-block;
     margin: 16px;
 }
+
+a {
+    color: #62748E;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #434F60;
+    text-decoration: underline;
+}
