@@ -5,6 +5,11 @@
     background-color: #EFF0DA;
 }
 
+body {
+    width: 80%;
+    margin: 0 auto;
+}
+
 h1 {
     color: #030644;
     text-align: center;
