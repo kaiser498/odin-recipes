@@ -4,6 +4,7 @@
     box-sizing: border-box;
     background-color: #EFF0DA;
 }
+
 h1 {
     color: #030644;
     text-align: center;
@@ -11,22 +12,22 @@ h1 {
     padding: 16px;
 }
 
-ul {
+#recipesTitle {
     list-style-type: none;
     text-align: center;
 }
 
-li {
+#recipesTitle li {
     display: inline-block;
     margin: 16px;
 }
 
-a {
+#recipesTitle li a {
     color: #62748E;
     text-decoration: none;
 }
 
-a:hover {
+#recipesTitle li a:hover {
     color: #434F60;
     text-decoration: underline;
 }
