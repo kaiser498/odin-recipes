@@ -12,22 +12,22 @@ h1 {
     padding: 16px;
 }
 
-#recipesTitle {
+#recipesTitles {
     list-style-type: none;
     text-align: center;
 }
 
-#recipesTitle li {
+#recipesTitles li {
     display: inline-block;
     margin: 16px;
 }
 
-#recipesTitle li a {
+#recipesTitles li a {
     color: #62748E;
     text-decoration: none;
 }
 
-#recipesTitle li a:hover {
+#recipesTitles li a:hover {
     color: #434F60;
     text-decoration: underline;
 }
