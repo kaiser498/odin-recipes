@@ -16,3 +16,7 @@ ul {
 
 }
 
+li {
+    display: inline-block;
+    margin: 16px;
+}
