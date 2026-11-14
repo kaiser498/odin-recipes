@@ -4,3 +4,9 @@
     box-sizing: border-box;
     background-color: #EFF0DA;
 }
+h1 {
+    color: #030644;
+    text-align: center;
+    background-color: #A6A09B;
+    padding: 16px;
+}
